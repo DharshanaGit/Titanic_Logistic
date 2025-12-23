@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/intellect/Documents/Data_Scientist/Projects/Titanic_Logistic_reg/.venv
+set -gx VIRTUAL_ENV /home/intellect/Documents/Titanic_Logistic/.venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
